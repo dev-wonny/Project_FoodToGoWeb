@@ -303,7 +303,7 @@
     * PostMan
     * Intellij Http test
 * Database
-    * Postgresql
+    * PostgreSQL
     * Redis
 * Infra
     * AWS EC2 t2.medium
