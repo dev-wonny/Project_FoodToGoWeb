@@ -1,5 +1,6 @@
 # 🍱 Project_FoodToGoWeb 🍱
-주문 배달 플랫폼을 스프링 부트 기반의 API Gateway, Auth, Monolitic 3개의 서버로 개발한 팀프로젝트 입니다.
+2024.08.22 ~ 2024.09.03(12일)
+주문 배달 플랫폼. 스프링 부트 기반의 API Gateway, Auth(인증&유저), Monolitic(user, food, restaurant, restaurant_category, order, address, payment, ai) 3개의 서버로 개발한 팀 프로젝트 입니다.
 ![스크린샷](/IMG/FoodToGoWeb.png)
 
 ## 🗓️ 개발 기간
@@ -296,6 +297,7 @@
     * JPA
 * API Test
     * PostMan
+    * Intellij Http test
 * Database
     * Postgresql
     * Redis
